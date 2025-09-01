@@ -12,7 +12,6 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-orange?logo=python)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Charts-green?logo=python)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-red?logo=scikitlearn)
-![SQL](https://img.shields.io/badge/SQL-Queries-lightgrey?logo=postgresql)
 
 ---
 
